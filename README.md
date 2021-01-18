@@ -24,5 +24,19 @@ modidslist = "1629667379,1629965981,1644646859"
 
 4- Run the python script:
 ```
-phyton Joew-SteamWorkshop-ModsInfo.py
+python Joew-SteamWorkshop-ModsInfo.py
+```
+
+
+
+## [x] Installing Python and Pip:
+
+1- Download and install python from [here](https://www.python.org/downloads/)
+
+2- Download get-pip.py from [here](https://bootstrap.pypa.io/get-pip.py)
+
+3- Open CMD and install get-pip.py:
+
+```
+python C:\folder\where\you\downloaded\get-pip.py
 ```
