@@ -2,7 +2,11 @@ import requests
 from bs4 import BeautifulSoup
 
 # Set your mods here:
-modidslist = "1629667379,1629965981,1644646859"
+#modidslist = "1629667379,1629965981,1644646859"
+
+# Ask for mods:
+print('Enter mods separated by comma:')
+modidslist = input()
 
 modids = "".join(modidslist.split()).split(",")
 modsfail = []
